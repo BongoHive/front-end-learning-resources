@@ -7,7 +7,8 @@ All the projects should be hosted on github and done using an online text editor
          Resources should start from basic to build up to bigger projects and more understanding. 
 
 
-**Example of preamble links**
+**Important links to read first from time to time**
+- Learning to code https://medium.com/swlh/learning-to-code-45f7e1657c1e
 - Naming
   https://dmitripavlutin.com/coding-like-shakespeare-practical-function-naming-conventions/
 - Lazy
