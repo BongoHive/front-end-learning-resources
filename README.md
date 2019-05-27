@@ -29,32 +29,30 @@ https://zellwk.com/blog/js-functions/
 ### Introduction
 
 > In this section, read and understand the basics of programming, we will be using `Javascript` and this knowledge will help you learn other programming languages as well.
+**Phase 1**
+> Phase 1 assignment can be found here https://github.com/BongoHive/js-phase-2
+
 **Understand the following**
 
 - Variables
-- Functions
-- Logic
-- Loops & arrays
-- Objects
-
-
-
+- Different data types in Javascript
 
 
 **Phase 2**
-> Assess the understanding of the technology(this can be just questions)
+> Phase 2 assignment can be found here https://github.com/BongoHive/js-phase-2 
 
-### Prove your understanding
-> You can consider these phases like small projects that build up to each other
+- Functions and basic problem solving
 
 **Phase 3**
-> Assignment number1
-
-
+> Phase 3 assignment can be found here https://github.com/BongoHive/js-phase-3
+- Logic
+- Loops
 
 
 **Phase 4**
-> Assignment number2
+> Assignment for this phase can be found here https://github.com/BongoHive/js-phase-3
+- Objects
+- Classes
 
 ### Final Project
 
