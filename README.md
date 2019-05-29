@@ -28,6 +28,7 @@ https://zellwk.com/blog/js-functions/
 
 > In this section, read and understand the basics of programming, we will be using `Javascript` and this knowledge will help you learn other programming languages as well.
 > Always refer to the links shared above 
+> Unless it is mentioned all the assignments in this section should be solved using the **console.log**
 
 **Phase 1**
 > Phase 1 assignment can be found here https://github.com/BongoHive/js-phase-1
