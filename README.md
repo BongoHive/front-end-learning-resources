@@ -27,10 +27,10 @@ https://zellwk.com/blog/js-functions/
 ### Introduction
 
 > In this section, read and understand the basics of programming, we will be using `Javascript` and this knowledge will help you learn other programming languages as well.
-**Phase 1**
-> Phase 1 assignment can be found here https://github.com/BongoHive/js-phase-2
+> Always refer to the links shared above 
 
-**Understand the following**
+**Phase 1**
+> Phase 1 assignment can be found here https://github.com/BongoHive/js-phase-1
 
 - Variables
 - Different data types in Javascript
@@ -40,25 +40,41 @@ https://zellwk.com/blog/js-functions/
 > Phase 2 assignment can be found here https://github.com/BongoHive/js-phase-2 
 
 - Functions and basic problem solving
+- Conditions (Control Flow)
 
 **Phase 3**
 > Phase 3 assignment can be found here https://github.com/BongoHive/js-phase-3
+
 - Logic
 - Loops
 
 
 **Phase 4**
-> Assignment for this phase can be found here https://github.com/BongoHive/js-phase-3
+> Assignment for this phase can be found here https://github.com/BongoHive/js-phase-4
+
 - Objects
 - Classes
 
-### Final Project
+### Advanced Phase
+> You should read and be comfortable working with the following
+
+- [ ] ES6
+- [ ] React
+
+* Understand how react works https://reactjs.org/docs/reconciliation.html
+* Introduction to React tutorial https://reactjs.org/tutorial/tutorial.html 
+* Understand Components and Props https://reactjs.org/docs/components-and-props.html  
+* State and Lifecycle https://reactjs.org/docs/state-and-lifecycle.html  
+* Handling events  https://reactjs.org/docs/handling-events.html  
+* Freecodecamp free course on react https://learn.freecodecamp.org/front-end-libraries/react/ (**Very important**)
+
+You can also check this free [reacthandbook](https://reacthandbook.com/)
 
 **Phase 5**
-> Assignment number3
+> Assignment for this phase can be found here https://github.com/BongoHive/js-phase-5
 
 
 **Phase 6**
-> Assignment number4
+> Assignment for this phase can be found here https://github.com/BongoHive/js-phase-6
 
 
