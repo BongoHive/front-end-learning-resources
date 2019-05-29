@@ -68,6 +68,7 @@ https://zellwk.com/blog/js-functions/
 * State and Lifecycle https://reactjs.org/docs/state-and-lifecycle.html  
 * Handling events  https://reactjs.org/docs/handling-events.html  
 * Freecodecamp free course on react https://learn.freecodecamp.org/front-end-libraries/react/ (**Very important**)
+* Other important articles to read on https://reactjs.org/community/articles.html
 
 You can also check this free [reacthandbook](https://reacthandbook.com/)
 
