@@ -13,6 +13,7 @@ All the projects should be hosted on github and done using an online text editor
   https://exceptionnotfound.net/be-the-laziest-programmer-you-can-be/
 - Functions
 https://zellwk.com/blog/js-functions/
+- Front-end developer handbook https://frontendmasters.com/books/front-end-handbook/2019/#1 (**Very important**)
 
 **General Resources**
 > These are resources that will help you find most things you will need to learn about Javascript    
