@@ -81,4 +81,12 @@ You will create a very simple page that contains your information, check more in
 > Assignment for this phase can be found here https://github.com/BongoHive/react-2  
 Building on the react knowledge, you will build a to-do app, check more info in the link above.
 
+**Phase 7**
+> Assignment for this phase can be found here https://github.com/BongoHive/rn-todo  
+
+- Learn basics of react-native https://facebook.github.io/react-native/docs/tutorial 
+- ListViews in react native https://facebook.github.io/react-native/docs/using-a-listview
+Building on the react knowledge, you will build a to-do app but you will use react-native this time,  
+check more info in the link above.
+
 
