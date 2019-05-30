@@ -73,12 +73,12 @@ https://zellwk.com/blog/js-functions/
 You can also check this free [reacthandbook](https://reacthandbook.com/)
 
 **Phase 5**
-> Assignment for this phase can be found here https://github.com/BongoHive/react-1
+> Assignment for this phase can be found here https://github.com/BongoHive/react-1  
 You will create a very simple page that contains your information, check more info on the link above
 
 
 **Phase 6**
-> Assignment for this phase can be found here https://github.com/BongoHive/react-2
+> Assignment for this phase can be found here https://github.com/BongoHive/react-2  
 Building on the react knowledge, you will build a to-do app, check more info in the link above.
 
 
