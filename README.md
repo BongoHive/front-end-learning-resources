@@ -14,6 +14,8 @@ All the projects should be hosted on github and done using an online text editor
 - Functions
 https://zellwk.com/blog/js-functions/
 - Front-end developer handbook https://frontendmasters.com/books/front-end-handbook/2019/#1 (**Very important**)
+- List of Hand picked Javascript reading materials https://github.com/twhite96/js-dev-reads/blob/master/README.md  
+
 
 **General Resources**
 > These are resources that will help you find most things you will need to learn about Javascript    
@@ -88,5 +90,4 @@ Building on the react knowledge, you will build a to-do app, check more info in 
 - ListViews in react native https://facebook.github.io/react-native/docs/using-a-listview
 Building on the react knowledge, you will build a to-do app but you will use react-native this time,  
 check more info in the link above.
-
 
